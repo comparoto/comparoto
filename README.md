@@ -1,6 +1,6 @@
 
 
-## ˙ . ꒷ 🍙 Bem-vindo ao meu perfil!. 𖦹˙— 🐈‍⬛
+## ˙ . ꒷ 🍙 Bem-vind@ ao meu perfil!. 𖦹˙— 🐈‍⬛
 <picture>
  
   <img alt="header cats" src="https://i.pinimg.com/736x/1b/d7/34/1bd7346b5592770b800f44c60c493aaf.jpg" width="800" height="200">
