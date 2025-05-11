@@ -14,7 +14,7 @@
 Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação e desenvolvimento.
 
 
-## Minhas Skills✍️
+## 🖥️
 
 
 <p>
@@ -24,7 +24,7 @@ Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habili
 </p>
 
 
-## Contatos🪪
+## 📲
 
 [![Linkedin](https://img.shields.io/badge/-Comparoto-pink?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/juliana-comparoto-)](www.linkedin.com/in/juliana-comparoto-)
 [![Gmail Badge](https://img.shields.io/badge/-julianacomparoto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianacomparoto@gmail.com)](mailto:julianacomparoto@gmail.com)
