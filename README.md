@@ -7,9 +7,9 @@
 </picture>
 <br>
 
-- **🤍ྀི** Me chamo Juliana Comparoto 
-- **🍁** Tenho 18 anos 
-- **👨🏻‍💻** 1° período de Análise e Desenvolvimento de Sistemas na Cesar School
+- **🤍ྀི** Juliana Comparoto 
+- **🍁**  18 anos 
+- **👨🏻‍💻** Análise e Desenvolvimento de Sistemas na Cesar School
 
 Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação e desenvolvimento.
 
