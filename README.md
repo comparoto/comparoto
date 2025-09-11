@@ -26,7 +26,6 @@ Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habili
 
 ## 📲
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-pink?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/juliana-comparoto-)](www.linkedin.com/in/juliana-comparoto-)
 [![Gmail Badge](https://img.shields.io/badge/-julianacomparoto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianacomparoto@gmail.com)](mailto:julianacomparoto@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/comparoto?label=follow&style=social)](https://github.com/comparoto)
 
