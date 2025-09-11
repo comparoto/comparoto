@@ -20,7 +20,7 @@ Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habili
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML5" height="25"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3" height="25"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" height="25"/>
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=000" alt="Python" height="25"/>
 </p>
 
 
