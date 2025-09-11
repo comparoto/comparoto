@@ -9,9 +9,9 @@
 
 - **🤍ྀི** Juliana Comparoto 
 - **🍁**  18 anos 
-- **👨🏻‍💻** Análise e Desenvolvimento de Sistemas na Cesar School
+- **👨🏻‍💻** Análise e Desenvolvimento de Sistemas na Cesar School / Engenharia da Computação na UPE
 
-Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação e desenvolvimento.
+Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação.
 
 
 ## 🖥️
