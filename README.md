@@ -1,18 +1,15 @@
 
 
-## ˙ . ꒷ 🍙 Bem-vind@ ao meu perfil!. 𖦹˙— 🐈‍⬛
+## ˙ .   Bem-vind@ ao meu perfil! ˙— 🐈‍⬛
 <picture>
  
-  <img alt="header cats" src="https://i.pinimg.com/736x/1b/d7/34/1bd7346b5592770b800f44c60c493aaf.jpg" width="800" height="200">
+  ![header](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif )
 </picture>
 <br>
 
-- **🤍ྀི** Juliana Comparoto 
-- **🍁**  18 anos 
-- **👨🏻‍💻** Análise e Desenvolvimento de Sistemas na Cesar School / Engenharia da Computação na UPE
-
-Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação.
-
+- Juliana Comparoto 
+- 18 anos 
+- Análise e Desenvolvimento de Sistemas 
 
 ## 🖥️
 
