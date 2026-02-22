@@ -1,38 +1,25 @@
-
-
 ## ༄˖°.🍂.ೃ࿔*:･ Comparoto 🐈‍⬛
+
 <picture>
- 
-  ![header](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif )
+  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 </picture>
+
 <br>
 
-- 19 anos 
-- Análise e Desenvolvimento de Sistemas 
+### ☁️ 
+- 🎓 3/5 **ADS**
+- 19 anos
+  
+### 💻 
+- ✨ **Foco em Front-End e UI/UX** 
+- ⚙️ **Porém com conhecimentos em Back-End e Lógica** 
 
-## 🖥️
+---
 
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML5" height="25"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3" height="25"/>
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=000" alt="Python" height="25"/>
-</p>
-
-
-## 📲
+## Fale Comigo 📲
 
 [![Gmail Badge](https://img.shields.io/badge/-julianacomparoto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianacomparoto@gmail.com)](mailto:julianacomparoto@gmail.com)
 
-##  𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝
+## 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝𓆝 𓆟 𓆞 𓆝
 
 <small><i>We can learn about our future from our past because, regardless of technology or the speed of innovation, people are still people - Simon Sinek</i></small>
-
-
-
-
-
-
-
-
-
