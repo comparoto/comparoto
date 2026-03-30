@@ -11,8 +11,7 @@
 - 19 anos
   
 ### 💻 
-- ✨ **Foco em Front-End e UI/UX** 
-- ⚙️ **Porém com conhecimentos em Back-End e Lógica** 
+- **Projetos diversos com diferentes focos em front e back** 
 
 ---
 
