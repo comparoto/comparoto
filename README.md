@@ -11,7 +11,8 @@
 - 19 anos
   
 ### 💻 
-- **Projetos diversos com diferentes focos em front e back** 
+- **Projetinhos diversos**
+- **Foco em Java e back-end embora haja bastante conteúdo front aqui :)**
 
 ---
 
