@@ -7,7 +7,7 @@
 <br>
 
 ### ☁️ 
-- 🎓 4/5 **ADS**
+- 🎓 4/5 **Análise e Desenvolvimento de Sistemas - CESAR School**
 - 19 anos
   
 ### 💻 
